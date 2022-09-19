@@ -1,0 +1,8 @@
+## Interface: 70300 
+## Title: |c00ffff00Leithrien's Media Tool|r
+## Version: v1.0.0
+## Author: Leithrien-Silvermoon (EU)
+## DefaultState: enabled
+## Dependencies: SharedMedia 
+
+init.lua 
