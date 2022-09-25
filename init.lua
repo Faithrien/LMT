@@ -7,6 +7,7 @@ if LSM == nil then return end
 -- [[ Borders ]] --
 
 -- [[ Fonts ]] --
+LSM:Register("font", "Gotham Narrow Ultra", [[Interface\Addons\LMT\Fonts\GothamNarrowUltra.ttf]])
 LSM:Register("font", "ITC-Avant-Garde-Gothic", [[Interface\Addons\LMT\Fonts\ITC-Avant-Garde-Gothic.ttf]])
 LSM:Register("font", "Montserrat-Medium", [[Interface\Addons\LMT\Fonts\Montserrat-Medium.ttf]])
 LSM:Register("font", "Montserrat-Regular", [[Interface\Addons\LMT\Fonts\Montserrat-Regular.ttf]])
