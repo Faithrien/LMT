@@ -8,10 +8,17 @@ if LSM == nil then return end
 
 -- [[ Fonts ]] --
 LSM:Register("font", "Gotham Narrow Ultra", [[Interface\Addons\LMT\Fonts\GothamNarrowUltra.ttf]])
+LSM:Register("font", "Hamizo-SemiBold", [[Interface\Addons\LMT\Fonts\Hamizo-Black.ttf]])
+LSM:Register("font", "Hamizo-Black", [[Interface\Addons\LMT\Fonts\Hamizo-Black.ttf]])
+LSM:Register("font", "Hamizo-Bold", [[Interface\Addons\LMT\Fonts\Hamizo-Bold.ttf]])
+LSM:Register("font", "Hamizo-Light", [[Interface\Addons\LMT\Fonts\Hamizo-Light.ttf]])
+LSM:Register("font", "Hamizo-Medium", [[Interface\Addons\LMT\Fonts\Hamizo-Medium.ttf]])
+LSM:Register("font", "Hamizo-Thin", [[Interface\Addons\LMT\Fonts\Hamizo-Thin.ttf]])
 LSM:Register("font", "ITC-Avant-Garde-Gothic", [[Interface\Addons\LMT\Fonts\ITC-Avant-Garde-Gothic.ttf]])
 LSM:Register("font", "Montserrat-Medium", [[Interface\Addons\LMT\Fonts\Montserrat-Medium.ttf]])
 LSM:Register("font", "Montserrat-Regular", [[Interface\Addons\LMT\Fonts\Montserrat-Regular.ttf]])
 LSM:Register("font", "Montserrat-SemiBold", [[Interface\Addons\LMT\Fonts\Montserrat-SemiBold.ttf]])
+LSM:Register("font", "Morpheus", [[Interface\Addons\LMT\Fonts\Morpheus.ttf]])
 LSM:Register("font", "Play-Bold", [[Interface\Addons\LMT\Fonts\Play-Bold.ttf]])
 LSM:Register("font", "Play-Regular", [[Interface\Addons\LMT\Fonts\Play-Regular.ttf]])
 LSM:Register("font", "Poppins-Medium", [[Interface\Addons\LMT\Fonts\Poppins-Medium.ttf]])
@@ -28,9 +35,14 @@ LSM:Register("sound", "|cFF89eb34Coin-SemiNormal|r", [[Interface\Addons\LMT\Soun
 LSM:Register("sound", "|cFF89eb34Coin-Sweet|r", [[Interface\Addons\LMT\Sounds\Coin-Sweet.ogg]])
 -- Self Info
 LSM:Register("sound", "|cFFebd634Clearcasting|r", [[Interface\Addons\LMT\Sounds\Clearcasting.ogg]])
+LSM:Register("sound", "|cFFebd634Adaptive Swarm 1|r", [[Interface\Addons\LMT\Sounds\Adaptive Swarm 1.ogg]])
+LSM:Register("sound", "|cFFebd634Adaptive Swarm 2|r", [[Interface\Addons\LMT\Sounds\Adaptive Swarm 2.ogg]])
+LSM:Register("sound", "|cFFebd634Buff Missing|r", [[Interface\Addons\LMT\Sounds\Buff Missing.ogg]])
+LSM:Register("sound", "|cFFebd634Innervated|r", [[Interface\Addons\LMT\Sounds\Innervated.ogg]])
 -- General Info
 LSM:Register("sound", "|cFFeb6234CR|r", [[Interface\Addons\LMT\Sounds\CR.ogg]])
 LSM:Register("sound", "|cFFeb6234Dead|r", [[Interface\Addons\LMT\Sounds\Dead.ogg]])
+LSM:Register("sound", "|cFFeb6234Warning (Optional)|r", [[Interface\Addons\LMT\Sounds\Warning (Optional).ogg]])
 -- Dungeon & Raid
 LSM:Register("sound", "|cFFd408cd1|r", [[Interface\Addons\LMT\Sounds\1.ogg]])
 LSM:Register("sound", "|cFFd408cd2|r", [[Interface\Addons\LMT\Sounds\2.ogg]])
