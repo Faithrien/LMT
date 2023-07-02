@@ -8,12 +8,12 @@ if LSM == nil then return end
 
 -- [[ Fonts ]] --
 LSM:Register("font", "Gotham Narrow Ultra", [[Interface\Addons\LMT\Fonts\GothamNarrowUltra.ttf]])
-LSM:Register("font", "Hamizo-SemiBold", [[Interface\Addons\LMT\Fonts\Hamizo-Black.ttf]])
-LSM:Register("font", "Hamizo-Black", [[Interface\Addons\LMT\Fonts\Hamizo-Black.ttf]])
-LSM:Register("font", "Hamizo-Bold", [[Interface\Addons\LMT\Fonts\Hamizo-Bold.ttf]])
-LSM:Register("font", "Hamizo-Light", [[Interface\Addons\LMT\Fonts\Hamizo-Light.ttf]])
-LSM:Register("font", "Hamizo-Medium", [[Interface\Addons\LMT\Fonts\Hamizo-Medium.ttf]])
-LSM:Register("font", "Hamizo-Thin", [[Interface\Addons\LMT\Fonts\Hamizo-Thin.ttf]])
+LSM:Register("font", "Homizio-SemiBold", [[Interface\Addons\LMT\Fonts\Homizio-Black.ttf]])
+LSM:Register("font", "Homizio-Black", [[Interface\Addons\LMT\Fonts\Homizio-Black.ttf]])
+LSM:Register("font", "Homizio-Bold", [[Interface\Addons\LMT\Fonts\Homizio-Bold.ttf]])
+LSM:Register("font", "Homizio-Light", [[Interface\Addons\LMT\Fonts\Homizio-Light.ttf]])
+LSM:Register("font", "Homizio-Medium", [[Interface\Addons\LMT\Fonts\Homizio-Medium.ttf]])
+LSM:Register("font", "Homizio-Thin", [[Interface\Addons\LMT\Fonts\Homizio-Thin.ttf]])
 LSM:Register("font", "ITC-Avant-Garde-Gothic", [[Interface\Addons\LMT\Fonts\ITC-Avant-Garde-Gothic.ttf]])
 LSM:Register("font", "Montserrat-Medium", [[Interface\Addons\LMT\Fonts\Montserrat-Medium.ttf]])
 LSM:Register("font", "Montserrat-Regular", [[Interface\Addons\LMT\Fonts\Montserrat-Regular.ttf]])
